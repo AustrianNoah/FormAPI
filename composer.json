@@ -1,7 +1,14 @@
 {
-  "name": "jojoe77777/formapi",
+  "name": "austriannoah/formapi",
   "version": "1.0.0",
   "require": {
     "pocketmine/pocketmine-mp": ">=5.15.0"
-  }
+  },
+  "authors": [
+    {
+      "name": "Noah",
+      "email": "none@ofyour.business",
+      "role": "None"
+    }
+  ]
 }
