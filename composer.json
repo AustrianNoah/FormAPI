@@ -1,5 +1,6 @@
 {
   "name": "jojoe77777/formapi",
+  "version": "1.0.0",
   "require": {
     "pocketmine/pocketmine-mp": ">=5.15.0"
   }
