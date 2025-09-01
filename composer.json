@@ -1,7 +1,7 @@
 {
   "name": "austriannoah/formapi",
   "description": "FormAPI in Packagist for Pocketmine Server Developers made by jojoe77777",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "require": {
     "pocketmine/pocketmine-mp": ">=5.33.1"
   },
