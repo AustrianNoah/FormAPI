@@ -3,7 +3,7 @@
   "description": "FormAPI in Packagist for Pocketmine Server Developers made by jojoe77777",
   "version": "1.0.0",
   "require": {
-    "pocketmine/pocketmine-mp": ">=5.15.0"
+    "pocketmine/pocketmine-mp": ">=5.33.1"
   },
   "authors": [
     {
